@@ -1,6 +1,6 @@
 # Laravel Table Optimize
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/luxutils/laravel-table-optimize.svg?style=flat-square)](https://packagist.org/packages/repat/spatie-crawler-redis)
-[![Total Downloads](https://img.shields.io/packagist/dt/luxutils/laravel-table-optimize.svg?style=flat-square)](https://packagist.org/packages/repat/spatie-crawler-redis)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/luxutils/laravel-table-optimize.svg?style=flat-square)](https://packagist.org/packages/luxutils/laravel-table-optimize)
+[![Total Downloads](https://img.shields.io/packagist/dt/luxutils/laravel-table-optimize.svg?style=flat-square)](https://packagist.org/packages/luxutils/laravel-table-optimize)
 
 ## Use with caution!
 
